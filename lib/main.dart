@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+// Aplicação padrão com SnackBar
 
 void main() {
   runApp(
